@@ -13,7 +13,7 @@
             - Legend showing the depth and thier correspoinding color
             - Popup for each Marker to show data tooltip with Earthquake information
 
-- ! [USCG Significant Earthquakes from the Past 30 Days]() 
+- ! [USCG Significant Earthquakes from the Past 30 Days](https://github.com/Kre8iveEnvy/leaflet-challenge/blob/main/Images/USCG%20Significant%20Earthquakes%20from%20the%20Past%2030%20Days.png) 
 - ! [logic.js screenshot1]()
 - ! [logic.js screenshot2]()
 
